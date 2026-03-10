@@ -1,0 +1,7 @@
+{
+  "name": "www.tsqdc.edu.vn",
+  "description": "Xây dựng học liệu số - Ứng dụng trí tuệ nhân tạo",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
